@@ -1,1 +1,1 @@
-# project1-loan-eligibility
+# project2-House price prediction
