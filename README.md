@@ -25,3 +25,6 @@
                  8.  Make predictions on the test dataset
 
                  9. Conclusion
+                 
+   exploratory analysis:
+   ![image](https://user-images.githubusercontent.com/117625658/211464915-8297d301-c440-4d85-b872-c1476dcaf68f.png)
