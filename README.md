@@ -26,5 +26,12 @@
 
                  9. Conclusion
                  
-   exploratory analysis:
+   important pictorial representation of this project:
+    correlation matrix of the dataset :
    ![image](https://user-images.githubusercontent.com/117625658/211464915-8297d301-c440-4d85-b872-c1476dcaf68f.png)
+    
+    most influence factor with target variable :
+    
+    price vs sqft living 
+    
+    ![image](https://user-images.githubusercontent.com/117625658/211560386-753635e8-14bc-4d11-a664-e4d5a89f38ec.png)
