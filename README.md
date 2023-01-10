@@ -35,4 +35,10 @@
     price vs sqft living 
     
 ![image](https://user-images.githubusercontent.com/117625658/211560754-37246327-779f-40ff-a54a-2d7c0e215f21.png)
-
+  
+  conclusion:
+            After the Final Submission of test data, my accuracy score In linear regression was 0.5231678435529761,
+            In Random forest was 0.915435194428393. Amazingly random forest algorithm worked better than all other models. 
+            future development: If we have a data of inflation rate for particular year.we will predict all the upcoming year also.
+  
+  
