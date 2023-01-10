@@ -34,4 +34,5 @@
     
     price vs sqft living 
     
-    ![image](https://user-images.githubusercontent.com/117625658/211560386-753635e8-14bc-4d11-a664-e4d5a89f38ec.png)
+![image](https://user-images.githubusercontent.com/117625658/211560754-37246327-779f-40ff-a54a-2d7c0e215f21.png)
+
